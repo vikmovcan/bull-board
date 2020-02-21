@@ -1,6 +1,6 @@
 node_modules/
-./static
 dist
+./static
 yarn-error.log
 *.rdb
 website/build
